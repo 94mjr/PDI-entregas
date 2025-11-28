@@ -1,0 +1,8 @@
+<config>
+  <data_file>tasks.json</data_file>
+  <autosave_interval>30</autosave_interval>
+  <default_priority>Normal</default_priority>
+  <window_title>Administrador de Tareas - Win32</window_title>
+  <web_port>5000</web_port>
+  <web_host>0.0.0.0</web_host>
+</config>
